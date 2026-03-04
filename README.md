@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shaurav bhattacharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurav bhattacharyya" height="30" width="40" /></a>
+<a href="shaurav.feb@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/img/38472">Gmail Icon Svg" alt="shaurav bhattacharyya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaurav-bhattacharyya-a347b5156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurav bhattacharyya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
