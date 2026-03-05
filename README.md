@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaurav20&label=Profile%20views&color=0e75b6&style=flat" alt="shaurav20" /> </p>
 
-- 📫 How to reach me **shaurav.feb@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:shaurav.feb@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" alt="shaurav bhattacharyya" height="30" width="40" /></a>
