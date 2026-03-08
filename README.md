@@ -1,3 +1,4 @@
+![logo](https://github.com/Shaurav20/Shaurav20/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Shaurav Bhattacharyya</h1>
 <h3 align="center">AI, Biotech and Sustainability Enthusiast</h3>
 
