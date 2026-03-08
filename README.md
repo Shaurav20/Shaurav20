@@ -48,7 +48,7 @@ Work Intern (August 2023 – January 2024)
 
 <ul>
 <li>Assisted the Biosimilars Mammalian MSAT Data Science team in Raman spectroscopic analysis of Trastuzumab upstream and downstream production samples and statistical model building with JMP.</li>
-<li>Maintained consolidated Trastuzumab batch production datasets and assisted with laboratory record keeping.</li>
+<li>Maintained consolidated Trastuzumab batch production dataset and assisted with laboratory record keeping.</li>
 <li>Learned operation of some laboratory instruments.</li>
 </ul>
 
