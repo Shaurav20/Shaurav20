@@ -173,10 +173,4 @@ GitHub: github.com/Shaurav20/RNASeq_analysis_pipeline_for_countfile_generation
 
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurav20&" alt="shaurav20" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaurav20&show_icons=true&locale=en" alt="shaurav20" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurav20&" alt="shaurav20" /></p>
