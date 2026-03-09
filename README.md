@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shaurav20/Shaurav20/blob/main/github-banner-2.png)
 <h1 align="center">Hi 👋, I'm Shaurav Bhattacharyya</h1>
-<h3 align="center">Biotechnology professional working at the intersection of biology, data, and automation.</h3>
+<h3 align="center">AI and Biotech Enthusiast working at the intersection of biology, data, and automation.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shaurav20&label=Profile%20views&color=0e75b6&style=flat" alt="shaurav20" />
