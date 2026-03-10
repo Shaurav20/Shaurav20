@@ -13,7 +13,7 @@ IIT M.Tech (Biological Engineering) graduate with experience in bioinformatics, 
 <br><br>
 Former Associate Solution Leader at Brane Enterprises Pvt Ltd and Work Intern at Biocon Biologics Ltd, with experience spanning biosimilar manufacturing data analysis, and AI-enabled workflow automation.
 <br><br>
-Seeking opportunities in Bioinformatics, Computational Biology, Bioprocess Data Analytics, and Life Sciences Automation.
+Interested in roles involving omics data analysis, bioprocess analytics, and workflow automation in the life sciences domain.
 </p>
 
 <h3 align="left">Connect with me:</h3>
