@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shaurav20/Shaurav20/blob/main/banner5_1.png)
 <h1 align="center">Hi 👋, I'm Shaurav Bhattacharyya</h1>
-<h3 align="center">Data Analyst with pharma, healthcare and biotech domain experience, skilled in Python, R, SQL, Power BI, and workflow automation.</h3>
+<h3 align="center">Data Analyst with biotech, pharma, and healthcare domain experience, skilled in Python, R, SQL, Power BI, and workflow automation.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shaurav20&label=Profile%20views&color=0e75b6&style=flat" alt="shaurav20" />
@@ -9,11 +9,11 @@
 <h3 align="left">Career Objective:</h3>
 
 <p>
-IIT M.Tech (Biological Engineering) graduate with experience in bioinformatics, bioprocess analytics, and workflow automation, combining wet-lab expertise with computational and data-driven approaches. Skilled in applying Python, R, SQL, JMP, and automation tools to solve problems in genomics, bioprocessing, and life sciences data analysis.
+M.Tech graduate in Biological Engineering from Indian Institute of Technology Gandhinagar with a strong focus on data analysis and data-driven automation in biotech, pharma, and healthcare domains. Proven ability to build scalable data pipelines, analyze complex datasets, and develop automation workflows to improve efficiency and decision-making. Experienced in Python, R, MySQL, Power BI, and automation tools like n8n.
 <br><br>
 Former Associate Solution Leader at Brane Enterprises Pvt Ltd and Work Intern at Biocon Biologics Ltd, with experience spanning biosimilar manufacturing data analysis, and workflow automation.
 <br><br>
-Interested in roles that combine data analytics with process automation in healthcare, biotech, and real-world applications. I am driven by a problem-solving mindset and a structured approach to developing sustainable and impactful solutions.
+Interested in roles that combine data analytics with process automation in biotech, pharma, healthcare, and real-world applications. I am driven by a problem-solving mindset and a structured approach to developing sustainable and impactful solutions.
 </p>
 
 <h3 align="left">Connect with me:</h3>
