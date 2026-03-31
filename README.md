@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shaurav20/Shaurav20/blob/main/banner5_1.png)
 <h1 align="center">Hi 👋, I'm Shaurav Bhattacharyya</h1>
-<h3 align="center">Data Analyst with healthcare and biotech domain experience, skilled in Python, R, SQL, Power BI, and workflow automation.</h3>
+<h3 align="center">Data Analyst with pharma, healthcare and biotech domain experience, skilled in Python, R, SQL, Power BI, and workflow automation.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shaurav20&label=Profile%20views&color=0e75b6&style=flat" alt="shaurav20" />
