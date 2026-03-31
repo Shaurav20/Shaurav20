@@ -1,4 +1,4 @@
-![logo](https://github.com/Shaurav20/Shaurav20/blob/main/banner5_1.png)
+![logo](https://github.com/Shaurav20/Shaurav20/blob/main/banner4_2.png)
 <h1 align="center">Hi 👋, I'm Shaurav Bhattacharyya</h1>
 <h3 align="center">Data Analyst with biotech, pharma, and healthcare domain experience, skilled in Python, R, SQL, Power BI, and workflow automation.</h3>
 
