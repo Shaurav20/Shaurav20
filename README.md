@@ -36,10 +36,9 @@ Associate Solution Leader (January 2024 – February 2025)
 </p>
 
 <ul>
-<li>Developed agentic automation workflows and integrated databases for a student assessment management system and operational workflows for healthcare and real estate clients.</li>
-<li>Researched Electronic Medical Record (EMR) systems and contributed to building an EMR portal prototype.</li>
-<li>Assisted in training the platform NLP bot to answer user queries using LLM.</li>
-<li>Reviewed company policies and documentation and performed gap analysis.</li>
+<li>Developed data-driven agentic automation workflows (and integrated the relevant databases) for the management of clinic operations and property for healthcare and real estate clients respectively.</li>
+<li>Researched online EMR (Electronic Medical Record) portals and participated in building an EMR portal prototype for a healthcare client.</li>
+<li>Performed documentation review and gap analysis of company policies, ensuring alignment with data governance standards.</li>
 </ul>
 
 <p>
@@ -48,9 +47,9 @@ Work Intern (August 2023 – January 2024)
 </p>
 
 <ul>
-<li>Assisted the Biosimilars Mammalian MSAT Data Science team in Raman spectroscopic analysis of Trastuzumab upstream and downstream production samples and statistical model building with JMP.</li>
-<li>Maintained consolidated Trastuzumab batch production dataset and assisted with laboratory record keeping.</li>
-<li>Learned operation of some laboratory instruments.</li>
+<li>Assisted the Biosimilars Mammalian MSAT (Manufacturing Science and Technology) Data Science team at Biocon Biologics in collecting and analyzing Raman spectroscopic data from upstream and downstream Trastuzumab production samples.</li>
+<li>Utilized the Raman spectroscopic data in training statistical models, using JMP, to support the development of Process Analytical Technology (PAT) for designing, analyzing, and controlling manufacturing through real-time monitoring of critical process parameters (CPPs) and quality attributes (CQAs).</li>
+<li>Maintained consolidated batch production datasets and laboratory records, ensuring data integrity and traceability.</li>
 </ul>
 
 <h3 align="left">Projects:</h3>
