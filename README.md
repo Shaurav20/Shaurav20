@@ -36,8 +36,8 @@ Associate Solution Leader (January 2024 – February 2025)
 </p>
 
 <ul>
-<li>Developed data-driven agentic automation workflows, via Brane's in-house platform, to deliver solutions to real estate clients (real estate management).</li>
-<li>Researched online EMR (Electronic Medical Record) portals and participated in building an EMR portal prototype for a healthcare client.</li>
+<li>Developed data-driven agentic automation workflows (via Brane's in-house platform) to deliver solutions, in operational systems, to healthcare and real estate clients.</li>
+<li>Researched online EMR (Electronic Medical Record) portals and contributed to an EMR portal prototype development, applying structured data modeling and workflow automation principles.</li>
 <li>Performed documentation review and gap analysis of company policies, ensuring alignment with data governance standards.</li>
 </ul>
 
