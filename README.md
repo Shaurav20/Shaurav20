@@ -13,7 +13,7 @@ M.Tech graduate in Biological Engineering from Indian Institute of Technology Ga
 <br><br>
 Former Associate Solution Leader at Brane Enterprises Pvt Ltd and Work Intern at Biocon Biologics Ltd, with experience spanning biosimilar manufacturing data analysis, and workflow automation.
 <br><br>
-Interested in roles that combine data analytics with process automation in biotech, pharma, and healthcare domains. I am driven by a problem-solving mindset and a structured approach to developing sustainable and impactful solutions.
+Currently interested in roles involving data analytics, process development, and data-driven decision-making preferably within biotech, biopharma, and healthcare sectors. I am driven by a problem-solving mindset and a structured approach to developing sustainable and impactful solutions.
 </p>
 
 <h3 align="left">Connect with me:</h3>
